@@ -1,0 +1,4 @@
+{
+  "_base": "https://raw.githubusercontent.com/algorave-dave/Fail-safe/main/",
+  "samples": ["samples/BG_VOX.wav", "samples/CHOPS.wav", "samples/FX.wav", "samples/GANG_VOX.wav", "samples/VERSE1.wav", "samples/VERSE2.wav"]
+}
