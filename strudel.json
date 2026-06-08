@@ -1,9 +1,0 @@
-{
-  "_base": "https://raw.githubusercontent.com/algorave-dave/Fail-safe/samples/main/",
-  "BG_VOX": "BG_VOX/BG_VOX.wav",
-  "CHOPS": "CHOPS/CHOPS.wav",
-  "FX": "FX/FX.wav",
-  "GANG_VOX": "GANG_VOX/GANG_VOX.wav",
-  "VERSE1": "VERSE1/VERSE1.wav",
-  "VERSE2": "VERSE2/VERSE2.wav"
-}
