@@ -84,7 +84,7 @@ function blockArrange(patArr, modifiers = []) {
     }).flat()
   ) 
 }
-// ^ some code to make the structure below possible you can ignore
+// ^ some code from Switch Angel that makes the structure below possible
 
 // /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
