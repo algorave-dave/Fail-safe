@@ -131,7 +131,7 @@ const bassline = note("{c#3@3 a2@2 e2@3 c#3@0.5 f#2@2.5 a2@2 e2@3}%8"
   .postgain(0.18)//.hpf(150)
   .lpf(energy).o(2)
 
-const chops = s("CHOPS").clip(1).note("c2").postgain(2)//.trans(5)
+const chops = s("CHOPS").clip(1).note("c2").postgain(0.6)//.trans(5)
   .jux(rev).room(0.5).delay(1).lpf(slider(3000, 300, 3000))
 .slice(16, "[0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15]".fast(4)).ply(2).o(2)
 
@@ -169,7 +169,7 @@ _$: blockArrange(
     // [[pad],        "<1@8 1@7.5 0@0.5 0@8 0@8         0@8 W@8 X@8 X@8 1@8 1@7.5 0@0.5 0@8 0@8   1@8 1@8 0@100>"],
   ],
   
-  [[(m) => m.includes('S') , (x) => x.lpf(1000).echo(1,16,0.5).postgain(0.06)],
+  [[(m) => m.includes('S') , (x) => x.lpf(1000)],
    [(m) => m.includes('T') , (x) => x.hpf(600)],
    [(m) => m.includes('G') , (x) => x.ply(4)],
    [(m) => m.includes('V') , (x) => x.lpf(200)],
@@ -178,7 +178,6 @@ _$: blockArrange(
    [(m) => m.includes('Y') , (x) => x.lpf(2500)],
    [(m) => m.includes('Z') , (x) => x.lpf(5000)],
    [(m) => m.includes('A') , (x) => x.room(0.75)],
-   [(m) => m.includes('C') , (x) => x.transpose("12").postgain(0.5)],
   ]
 ) 
 // ^ this is the whole song structure  
