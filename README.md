@@ -19,14 +19,14 @@ HI! Welcome to my first "open source" project :) I've been waiting for the right
 
 ## Remix Rules
 
- - Pleaseeee no AI
-  - To submit you remix, first *fork* the original DJ_Dave repo, then *commit* your own edit and submit a *Pull Request* back.
-- You need to keep your remixes in a sub-folder with your own name, within the 'Remixes' folder. You can have as many remixes are you
+- Pleaseeee no AI
+- To submit you remix, first *fork* the original DJ_Dave repo, then *commit* your own edit and submit a *Pull Request* back.
+- You need to keep your remixes in a sub-folder with your own name, within the 'Remixes' folder. You can have as many remixes as you
    like within your folder. 
-   -- While it's preferable to keep the sub-folder your Github name, it's not a requirement. It just helps to make sure nobody tries to edit somebody elses work.
-   -- As well as the Strudle JS file, you *should* edit the 'Readme' within your folder and mention your name as the remixer, along with what it is you have tried to do (e.g. 'chill-out remix')
- - Remixes have to follow and be released under CC BY-NC-SA (see Licence)
- - No AI!
+    - While it's preferable to keep the sub-folder your Github name, it's not a requirement. It just helps to make sure nobody tries to edit somebody elses work.
+    - As well as the Strudle JS file, you *should* edit the 'Readme' within your folder and mention your name as the remixer, along with what it is you have tried to do (e.g. 'chill-out remix')
+- Remixes have to follow and be released under CC BY-NC-SA (see Licence)
+- No AI!
 
 ## Licence  
   One last note before you get started => I want to mention that while I am making the source code and samples available, the intellectual material within this file and the samples are under ownership of my label and I, which is why I have it under a [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). 
