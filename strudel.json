@@ -1,0 +1,8 @@
+{
+    "CHOPS": "/samples/CHOPS/CHOPS.wav",
+    "BG_VOX": "/samples/BG_VOX/BG_VOX.wav",
+    "GANG_VOX": "/samples/GANG_VOX/GANG_VOX.wav",
+    "VERSE1": "/samples/VERSE1/VERSE1.wav",
+    "VERSE2": "/samples/VERSE2/VERSE2.wav",
+    "FX": "/samples/FX/FX.wav"
+}

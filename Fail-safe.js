@@ -89,6 +89,7 @@ function blockArrange(patArr, modifiers = []) {
 // /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
 samples('github:tidalcycles/dirt-samples')
+samples('github:algorave-dave/Fail-safe/');
 // ^ all of my samples are in my github folder, and a bunch of drum samples are from this tidalcycles library on github
 
 setCps(140/60/4)
